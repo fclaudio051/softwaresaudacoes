@@ -3,7 +3,7 @@
 node_modules/
 
 # Build
-/.next
+/.ne
 /out
 
 # Log files
